@@ -1,4 +1,4 @@
-# Game-Engineering-Final
+# Game Engineering Final
 
 This is the final project that I created for my C++ Game Engineering class. 
 
